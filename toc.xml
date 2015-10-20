@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="drspod" APIVersion="11" Name="drScoreBadger" Description="Mark players in Battlegrounds according to role and ability">
+    <Script Name="drScoreBadger.lua"/>
+    <Form Name="drScoreBadger.xml"/>
+</Addon>
