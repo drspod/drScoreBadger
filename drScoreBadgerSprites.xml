@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Sprites>
     <Sprite Name="plus" Cycle="1">
-        <Frame Texture="drScoreBadger\Sprites\plus.tga" x0="0" x1="0" x2="0" x3="0" x4="120" x5="120" y0="0" y1="0" y2="0" y3="0" y4="120" y5="120" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+        <Frame Texture="drScoreBadger\Sprites\plus.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="plus1" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\plus1.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="plus2" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\plus2.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="plus3" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\plus3.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="plus4" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\plus4.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
     </Sprite>
     <Sprite Name="king" Cycle="1">
-        <Frame Texture="drScoreBadger\Sprites\king.tga" x0="0" x1="0" x2="0" x3="0" x4="120" x5="120" y0="0" y1="0" y2="0" y3="0" y4="120" y5="120" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+        <Frame Texture="drScoreBadger\Sprites\king.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="king1" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\king1.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="king2" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\king2.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="king3" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\king3.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="king4" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\king4.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
     </Sprite>
     <Sprite Name="turd" Cycle="1">
-        <Frame Texture="drScoreBadger\Sprites\turd.tga" x0="0" x1="0" x2="0" x3="0" x4="120" x5="120" y0="0" y1="0" y2="0" y3="0" y4="120" y5="120" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+        <Frame Texture="drScoreBadger\Sprites\turd.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="turd1" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\turd1.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="turd2" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\turd2.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="turd3" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\turd3.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="turd4" Cycle="1">
+        <Frame Texture="drScoreBadger\Sprites\turd4.tga" x0="0" x1="0" x2="0" x3="0" x4="240" x5="240" y0="0" y1="0" y2="0" y3="0" y4="240" y5="240" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
     </Sprite>
 </Sprites>
